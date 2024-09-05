@@ -1,0 +1,73 @@
+--Lecture 1 Prep--
+Link: https://www.youtube.com/watch?v=KWbaXxOCOhQ&list=PLlGXNwjYhXYyEReAh8M4vIGNulIzNHzMY
+
+lectures 6 through 17.
+lecture 22
+-----
+
+Lecture 6: Basic Programming Concepts
+- Why programming? 
+    - you need to be able to program in order to be able to tell a computer what you want it to do
+    - prepackaged solutions (apps) 
+    - programming lets you make a computer do (almost) anything you want
+- programming
+    - not just for experts
+    - natural, satisfying and creative experience
+    - enables accomplishments not otherwise possible
+    - the path to a new world of intellectual endeavor
+- challenges
+    - need to learn what computers can do 
+    - need to learn programming in a language
+- machine language
+    - computer's language, error prone for human
+    - to interface between human and computer we use high level language
+        - some difficulty for both
+        - an acceptable tradeoff
+- we'll use Java in this course
+    - widely used, available
+    - under development since 90's
+    - billions of devices run on it
+- it's not about the language
+- HelloWorld program:
+    - all programs have main methods
+
+Lecture 7: Program development
+- program dev w Java is a three step process:
+    1. edit/create your program until you get a txt program
+    2. compile to get an executable file
+        - mistake? go back, fix, and recompile
+    3. run program 
+- computers help us figure out the problems (via IDEs)
+    - virtual terminals
+        - works with any language
+        - useful beyond programming
+        - used by pros 
+        - withstood test of time
+        - not necessarily great for long programs
+        - dealing with independent apps
+        - working at too low a level
+    - IDEs 
+        - language specific tools
+        - used by pros 
+        - error checking
+        - overkill for short programs?
+        - big application to learn and maintain
+        - often language or system-specific
+
+Lecture 8: Built-in data types
+- now we'll write some actual java programs
+- built-in data types: a set of values and a set of operations on those values
+    - type: char, set of values: characters, examples: A or @, examples of operations: compare
+    - also strings, int, double (floating point), boolean 
+- a variable is a name that refers to a value
+- a literal is a programming-language representation of a value 
+- a declaration statement associates a variable with a type 
+
+Lecture 9: Type conversion
+- type conversion is an essential part of programming
+- there's automatic types 
+- sometimes we need to use explicitly defined conversions 
+- sometimes we use a cast, for values that belong to multiple types 
+
+
+Lecture 10: Conditionals and Loops
